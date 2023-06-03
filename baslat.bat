@@ -1,0 +1,2 @@
+py instalocker.py
+pause
